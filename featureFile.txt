@@ -1,4 +1,4 @@
 this is feature
 this is a new file from inside the master branch
 this is a sec feature
-
+line 4
