@@ -2,3 +2,8 @@ this is feature
 this is a new file from inside the master branch
 this is a sec feature
 
+
+
+
+
+this is new feature on line 9
