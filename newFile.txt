@@ -2,3 +2,4 @@ this is new file
 from feature branch
 added line 3 in new file - feature branch
 added line 4 in new file - feature branch
+added line 5 in new file - feature branch
